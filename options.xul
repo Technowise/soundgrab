@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<vbox xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <setting data-jetpack-id="{c8d3bc80-0810-4d21-a2c2-be5f2b2832ac}" pref="extensions.{c8d3bc80-0810-4d21-a2c2-be5f2b2832ac}.toolbarEnabled" pref-name="toolbarEnabled" title="Enable navigation toolbar" type="bool">
+	Show/hide SoundCloud Downloader button in the navigation toolbar.
+  </setting>
+</vbox>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+  <Description about="urn:mozilla:install-manifest">
+    <em:id>{c8d3bc80-0810-4d21-a2c2-be5f2b2832ac}</em:id>
+    <em:version>0.98</em:version>
+    <em:type>2</em:type>
+    <em:bootstrap>true</em:bootstrap>
+    <em:unpack>false</em:unpack>
+    <!-- Firefox -->
+    <em:targetApplication>
+      <Description>
+        <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+        <em:minVersion>23.0</em:minVersion>
+        <em:maxVersion>42.*</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+    <!-- Firefox Mobile
+    <em:targetApplication>
+      <Description>
+        <em:id>{a23983c0-fd0e-11dc-95ff-0800200c9a66}</em:id>
+        <em:minVersion>23.0</em:minVersion>
+        <em:maxVersion>39.*</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+     -->
+    <!-- Mozilla Firefox for Android 
+    <em:targetApplication>
+      <Description>
+        <em:id>{aa3c5121-dab2-40e2-81ca-7ea25febc110}</em:id>
+        <em:minVersion>23.0</em:minVersion>
+        <em:maxVersion>39.*</em:maxVersion>
+      </Description>
+    </em:targetApplication>-->
+    <!-- Front End MetaData -->
+    <em:name>SoundCloud Downloader - Technowise</em:name>
+    <em:description>Adds download links to all soundcloud tracks, including sets.</em:description>
+    <em:creator>Technowise</em:creator>
+  </Description>
+</RDF>

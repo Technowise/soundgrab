@@ -1,0 +1,67 @@
+{
+ "enable_e10s": false,
+ "is-sdk-bundled": true,
+ "jetpackID": "{c8d3bc80-0810-4d21-a2c2-be5f2b2832ac}",
+ "loader": "addon-sdk/lib/sdk/loader/cuddlefish.js",
+ "main": "main",
+ "mainPath": "soundcloud-downloader-technowise/main",
+ "manifest": {
+  "soundcloud-downloader-technowise/main": {
+   "docsSHA256": null,
+   "jsSHA256": "46d2c7d9b020249516e544e5b1b275234f1310faa2e9fa2dcf99305c0604c26a",
+   "moduleName": "main",
+   "packageName": "soundcloud-downloader-technowise",
+   "requirements": {
+    "context-menu": "sdk/context-menu",
+    "file_manager.js": "soundcloud-downloader-technowise/file_manager",
+    "page-mod": "sdk/page-mod",
+    "request": "sdk/request",
+	"tabs": "sdk/tabs",
+    "self": "sdk/self",
+	"simple-storage": "sdk/simple-storage",
+	"simple-prefs": "sdk/simple-prefs",
+    "chrome": "chrome"
+   },
+   "sectionName": "lib"
+  }
+ },
+ "metadata": {
+  "addon-sdk": {
+   "description": "Add-on development made easy.",
+   "keywords": [
+    "javascript",
+    "engine",
+    "addon",
+    "extension",
+    "xulrunner",
+    "firefox",
+    "browser"
+   ],
+   "license": "MPL 2.0",
+   "name": "addon-sdk"
+  },
+  "soundcloud-downloader-technowise": {
+   "author": "Technowise",
+   "description": "Adds download links to all soundcloud tracks.",
+   "main": "main",
+   "name": "soundcloud-downloader-technowise",
+   "version": "0.98",
+   "permissions": {
+	"unsafe-content-script": true
+	}
+  }
+ },
+ "name": "soundcloud-downloader-technowise",
+ "repack": "true",
+  "preferences": [
+  {
+   "description": "default: https://partner.voipgrid.nl/",
+   "name": "option1",
+   "title": "Platform URL",
+   "type": "string",
+   "value": "test value"
+  }],
+ "sdkVersion": "1.17",
+ "staticArgs": {},
+ "verbose": false
+}

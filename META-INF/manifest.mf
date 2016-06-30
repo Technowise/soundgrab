@@ -1,0 +1,80 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: aZQ8vCKCh66NKMMk/+93Zw==
+SHA1-Digest: E9jkvkbsq3obpq0x1XH6sIVJTEQ=
+
+Name: bootstrap.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: RCX+ZkAyKxeJZ94IJe/HVQ==
+SHA1-Digest: pCyuWwLONSn8KcFa7ZkowjOKxG4=
+
+Name: harness-options.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: nl8S4/D88M7KDytYgW84uw==
+SHA1-Digest: QYN+sEX3JQbYelQQGmMU4zyQnPc=
+
+Name: locales.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: p3Qh60/6wDH/UunTuTWZjQ==
+SHA1-Digest: DBci+JD/520hUnFSB3zB1xoBE9g=
+
+Name: options.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: l/PUbBinK+CidmSdgPpoxA==
+SHA1-Digest: 85ABn0ahLrTOjR2VRZHLJAQJjLA=
+
+Name: defaults/preferences/prefs.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gQUbzCzxvt83giSwqT4odw==
+SHA1-Digest: uoq1oCgLlTqpdDX/iUbLy7J1Wic=
+
+Name: resources/soundcloud-downloader-technowise/data/get_sound.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TCf87Mnlt49p7lUnEVuPYQ==
+SHA1-Digest: PiQrieeOKC6BuMj4jbsxKDfkdHg=
+
+Name: resources/soundcloud-downloader-technowise/data/jquery-2.1.4.min.j
+ s
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +cev0Fcp8Q9Vtonza7IBcg==
+SHA1-Digest: Q9xVRgjfiFpZ3e7OFZjGrOQ010c=
+
+Name: resources/soundcloud-downloader-technowise/data/soundclouddownload
+ ertechnowise.user.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bC/Z5F9sMKB5RoENm1b//Q==
+SHA1-Digest: CueCXQN93rWLUC8oAEuL0EkYUi0=
+
+Name: resources/soundcloud-downloader-technowise/data/img/413536-64.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FyY4NCbjYmYYtK/Ducmbyw==
+SHA1-Digest: g2P5E6fKtkAxxCZn8Cb04PlmaC0=
+
+Name: resources/soundcloud-downloader-technowise/data/img/ajax-loader.gi
+ f
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3jBX1ToknlNzM2Qix+J4FQ==
+SHA1-Digest: IyRe4049nvfS5jRfvkKcA6JUHw4=
+
+Name: resources/soundcloud-downloader-technowise/data/img/dropit.ico
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 41LrteQFfYrEdubUPGH4Bw==
+SHA1-Digest: KuM/zzZpRgkLIK/gR9gGQXekrMA=
+
+Name: resources/soundcloud-downloader-technowise/data/img/favicon.ico
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KJrlQacTLL0WPgGM4zAZTQ==
+SHA1-Digest: 3h6vUfOKKfBMkAXVMnFkuhxkQFs=
+
+Name: resources/soundcloud-downloader-technowise/lib/file_manager.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Q7h0J3hfv5+NuWPLhWfPLg==
+SHA1-Digest: hftF7XFMz6gFnCw4XaxRl1vQkSg=
+
+Name: resources/soundcloud-downloader-technowise/lib/main.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4DH9m7/D5YdnFR7yBu8lpA==
+SHA1-Digest: nl6j7C5f6pLXNcxaiHFJQtyLr2g=
+
